@@ -1,0 +1,16 @@
+TM1637D4   KEYWORD1
+init	KEYWORD2
+writeByte	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+set	KEYWORD2
+clearDisplay	KEYWORD2
+set	KEYWORD2
+display	KEYWORD2
+displayAscii	KEYWORD2
+displayNumeral	KEYWORD2
+displayNumber	KEYWORD2
+displayWorld	KEYWORD2
+setColon	KEYWORD2
+changeColon	KEYWORD2
+setBright	KEYWORD2
